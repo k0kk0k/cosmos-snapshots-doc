@@ -6,6 +6,7 @@ https://snapshots.stake2.me/axelar/ - Axelar mainnet
 https://snapshots.stake2.me/certik/ - Certik mainnet  
 https://snapshots.stake2.me/chihuahua/ - Chihuahua mainnet  
 https://snapshots.stake2.me/firmachain/ - Firmachain mainnet  
+https://snapshots.stake2.me/gamehub/ - Game Hub pre mainnet  
 https://snapshots.stake2.me/gravity/ - Gravity bridge mainnet  
 https://snapshots.stake2.me/ixo/ - IXO mainnet  
 https://snapshots.stake2.me/kichain/ - Kichain mainnet  
@@ -22,6 +23,7 @@ https://snapshots.stake2.me/stargaze/ - Stargaze mainnet
 [Certik snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/certik.md)  
 [Chihuahua snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/chihuahua.md)  
 [Firmachain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/firmachain.md)  
+[Game Hub snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gamehub.md)  
 [Gravity bridge snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gravity.md)  
 [IXO snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/ixo.md)  
 [Kichain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/kichain.md)  
