@@ -16,6 +16,7 @@ https://snapshots.stake2.me/osmosis/ -Osmosis mainnet
 https://snapshots.stake2.me/regen/ -Regen mainnet  
 https://snapshots.stake2.me/sifchain/ - Sifchain betanet  
 https://snapshots.stake2.me/stargaze/ - Stargaze mainnet  
+https://snapshots.stake2.me/umee/ - UMEE mainnet 
 
 # How to use?
 [Agoric snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/agoric.md)  
@@ -34,6 +35,7 @@ https://snapshots.stake2.me/stargaze/ - Stargaze mainnet
 [Regen snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/regen.md)  
 [Sifchain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/sifchain.md)  
 [Stargaze snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/stargaze.md)  
+[UMEE snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/umee.md)  
 
 More snapshots:  
 https://github.com/c29r3/cosmos-snapshots
