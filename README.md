@@ -12,6 +12,7 @@ https://snapshots.stake2.me/ixo/ - IXO mainnet
 https://snapshots.stake2.me/kichain/ - Kichain mainnet  
 https://snapshots.stake2.me/nym/ - NYM mainnet  
 https://snapshots.stake2.me/oasis/ - Oasis mainnet  
+https://snapshots.stake2.me/omniflix/ - Omniflix mainnet  
 https://snapshots.stake2.me/osmosis/ -Osmosis mainnet  
 https://snapshots.stake2.me/regen/ -Regen mainnet  
 https://snapshots.stake2.me/sifchain/ - Sifchain betanet  
@@ -31,6 +32,7 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 [Kichain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/kichain.md)  
 [NYM snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/nym.md)  
 [Oasis snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/oasis.md)  
+[Omniflix snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/omniflix.md)  
 [Osmosis snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/osmosis.md)  
 [Regen snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/regen.md)  
 [Sifchain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/sifchain.md)  
