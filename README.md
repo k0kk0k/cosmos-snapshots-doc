@@ -40,4 +40,9 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 [UMEE snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/umee.md)  
 
 More snapshots:  
-https://github.com/c29r3/cosmos-snapshots
+https://github.com/c29r3/cosmos-snapshots  
+
+# Public RPC
+https://agoric.rpc.stake2.me  
+https://stargaze.rpc.stake2.me  
+https://osmosis.rpc.stake2.me  
