@@ -11,7 +11,7 @@ cd ~/.certik/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/certik/ | egrep -o ">certik.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/certik/ | egrep -o ">certik.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/certik/${SNAP_NAME} | tar xf -
 ```
 
