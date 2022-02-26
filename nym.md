@@ -11,7 +11,7 @@ cd ~/.nyxd/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/nym/ | egrep -o ">nym.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/nym/ | egrep -o ">nym.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/nym/${SNAP_NAME} | tar xf -
 ```
 
