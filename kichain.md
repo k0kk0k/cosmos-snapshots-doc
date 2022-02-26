@@ -11,7 +11,7 @@ cd ~/.kid/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/kichain/ | egrep -o ">kichain.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/kichain/ | egrep -o ">kichain.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/kichain/${SNAP_NAME} | tar xf -
 ```
 
