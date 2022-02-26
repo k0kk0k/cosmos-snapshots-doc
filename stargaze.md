@@ -11,7 +11,7 @@ cd ~/.starsd/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/stargaze/ | egrep -o ">stargaze.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/stargaze/ | egrep -o ">stargaze.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/stargaze/${SNAP_NAME} | tar xf -
 ```
 
