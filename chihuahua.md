@@ -11,7 +11,7 @@ cd ~/.chihuahua/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/chihuahua/ | egrep -o ">chihuahua.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/chihuahua/ | egrep -o ">chihuahua.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/chihuahua/${SNAP_NAME} | tar xf -
 ```
 

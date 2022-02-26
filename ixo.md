@@ -11,7 +11,7 @@ cd ~/.ixod/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/ixo/ | egrep -o ">ixo.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/ixo/ | egrep -o ">ixo.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/ixo/${SNAP_NAME} | tar xf -
 ```
 

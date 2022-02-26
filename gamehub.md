@@ -11,7 +11,7 @@ cd ~/.nibiru/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/gamehub/ | egrep -o ">gamehub.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/gamehub/ | egrep -o ">gamehub.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/gamehub/${SNAP_NAME} | tar xf -
 ```
 

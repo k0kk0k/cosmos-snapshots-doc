@@ -11,7 +11,7 @@ cd ~/.sifnoded/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/sifchain/ | egrep -o ">sifchain.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/sifchain/ | egrep -o ">sifchain.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/sifchain/${SNAP_NAME} | tar xf -
 ```
 

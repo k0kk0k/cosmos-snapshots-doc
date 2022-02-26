@@ -11,7 +11,7 @@ cd ~/.osmosisd/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/osmosis/ | egrep -o ">osmosis.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/osmosis/ | egrep -o ">osmosis.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/osmosis/${SNAP_NAME} | tar xf -
 ```
 

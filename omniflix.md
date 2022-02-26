@@ -11,7 +11,7 @@ cd ~/.omniflixhub/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/omniflix/ | egrep -o ">omniflix.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/omniflix/ | egrep -o ">omniflix.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/omniflix/${SNAP_NAME} | tar xf -
 ```
 

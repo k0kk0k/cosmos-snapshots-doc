@@ -11,7 +11,7 @@ cd ~/.agoric/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/agoric/ | egrep -o ">agoric.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/agoric/ | egrep -o ">agoric.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/agoric/${SNAP_NAME} | tar xf -
 ```
 
