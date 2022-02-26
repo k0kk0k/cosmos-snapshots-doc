@@ -42,7 +42,7 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 More snapshots:  
 https://github.com/c29r3/cosmos-snapshots  
 
-# Public RPC endpoints
-https://agoric.rpc.stake2.me  
-https://stargaze.rpc.stake2.me  
+# Public RPC endpoints 
+https://omniflix.rpc.stake2.me  
 https://osmosis.rpc.stake2.me  
+https://stargaze.rpc.stake2.me  
