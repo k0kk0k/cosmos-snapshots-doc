@@ -11,7 +11,7 @@ cd ~/.gravity/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/gravity/ | egrep -o ">gravity.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/gravity/ | egrep -o ">gravity.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/gravity/${SNAP_NAME} | tar xf -
 ```
 
