@@ -11,7 +11,7 @@ cd ~/.firmachain/data
 
 Download snapshot  
 ```bash
-SNAP_NAME=$(curl -s https://snapshots.stake2.me/firmachain/ | egrep -o ">firmachain.*tar" | tr -d ">"); \
+SNAP_NAME=$(curl -s https://snapshots.stake2.me/firmachain/ | egrep -o ">firmachain.*tar" | tr -d ">" | tail -n1); \
 wget -O - https://snapshots.stake2.me/firmachain/${SNAP_NAME} | tar xf -
 ```
 
