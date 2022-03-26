@@ -46,3 +46,4 @@ https://github.com/c29r3/cosmos-snapshots
 https://omniflix.rpc.stake2.me  
 https://osmosis.rpc.stake2.me  
 https://stargaze.rpc.stake2.me  
+https://axelar.rpc.stake2.me  
