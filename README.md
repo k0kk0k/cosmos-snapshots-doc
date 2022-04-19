@@ -10,6 +10,7 @@ https://snapshots.stake2.me/gamehub/ - Game Hub pre mainnet
 https://snapshots.stake2.me/gravity/ - Gravity bridge mainnet  
 https://snapshots.stake2.me/ixo/ - IXO mainnet  
 https://snapshots.stake2.me/kichain/ - Kichain mainnet  
+https://snapshots.stake2.me/mantle/ - AssetMantle mainnet  
 https://snapshots.stake2.me/nym/ - NYM mainnet  
 https://snapshots.stake2.me/oasis/ - Oasis mainnet  
 https://snapshots.stake2.me/omniflix/ - Omniflix mainnet  
@@ -30,6 +31,7 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 [Gravity bridge snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gravity.md)  
 [IXO snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/ixo.md)  
 [Kichain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/kichain.md)  
+[AssetMantle snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/mantle.md)  
 [NYM snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/nym.md)  
 [Oasis snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/oasis.md)  
 [Omniflix snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/omniflix.md)  
@@ -47,3 +49,4 @@ https://omniflix.rpc.stake2.me
 https://osmosis.rpc.stake2.me  
 https://stargaze.rpc.stake2.me  
 https://axelar.rpc.stake2.me  
+https://mantle.rpc.stake2.me  
