@@ -23,7 +23,7 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 # How to use?
 [Agoric snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/agoric.md)  
 [Akash snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/akash.md)  
-[AssetMantle snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/mantle.md) 
+[AssetMantle snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/mantle.md)  
 [Axelar snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/axelar.md)  
 [Certik snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/certik.md)  
 [Chihuahua snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/chihuahua.md)  
