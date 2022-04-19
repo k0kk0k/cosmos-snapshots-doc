@@ -23,6 +23,7 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 # How to use?
 [Agoric snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/agoric.md)  
 [Akash snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/akash.md)  
+[AssetMantle snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/mantle.md) 
 [Axelar snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/axelar.md)  
 [Certik snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/certik.md)  
 [Chihuahua snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/chihuahua.md)  
@@ -30,8 +31,7 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 [Game Hub snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gamehub.md)  
 [Gravity bridge snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gravity.md)  
 [IXO snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/ixo.md)  
-[Kichain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/kichain.md)  
-[AssetMantle snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/mantle.md)  
+[Kichain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/kichain.md)   
 [NYM snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/nym.md)  
 [Oasis snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/oasis.md)  
 [Omniflix snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/omniflix.md)  
