@@ -45,7 +45,7 @@ More snapshots:
 https://github.com/c29r3/cosmos-snapshots  
 
 # Public RPC endpoints 
-https://agoric.rpc.stake2.me 
+https://agoric.rpc.stake2.me  
 https://axelar.rpc.stake2.me  
 https://mantle.rpc.stake2.me  
 https://omniflix.rpc.stake2.me  
