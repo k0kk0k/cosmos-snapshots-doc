@@ -10,7 +10,6 @@ https://snapshots.stake2.me/gamehub/ - Game Hub pre mainnet
 https://snapshots.stake2.me/gravity/ - Gravity bridge mainnet  
 https://snapshots.stake2.me/ixo/ - IXO mainnet  
 https://snapshots.stake2.me/kichain/ - Kichain mainnet  
-https://snapshots.stake2.me/mantle/ - AssetMantle mainnet  
 https://snapshots.stake2.me/nym/ - NYM mainnet  
 https://snapshots.stake2.me/oasis/ - Oasis mainnet  
 https://snapshots.stake2.me/omniflix/ - Omniflix mainnet  
@@ -23,7 +22,6 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 # How to use?
 [Agoric snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/agoric.md)  
 [Akash snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/akash.md)  
-[AssetMantle snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/mantle.md)  
 [Axelar snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/axelar.md)  
 [Certik snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/certik.md)  
 [Chihuahua snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/chihuahua.md)  
@@ -47,7 +45,6 @@ https://github.com/c29r3/cosmos-snapshots
 # Public RPC endpoints 
 https://agoric.rpc.stake2.me  
 https://axelar.rpc.stake2.me  
-https://mantle.rpc.stake2.me  
 https://omniflix.rpc.stake2.me  
 https://osmosis.rpc.stake2.me  
 https://stargaze.rpc.stake2.me  
