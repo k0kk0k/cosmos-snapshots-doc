@@ -2,11 +2,11 @@
 Stop Chihuahua service  
 `systemctl stop chihuahua.service`  
 
-Remove old data in directory `~/.chihuahua/data`  
+Remove old data in directory `~/.chihuahuad/data`  
 ```
-rm -rf ~/.chihuahua/data; \
-mkdir -p ~/.chihuahua/data; \
-cd ~/.chihuahua/data
+rm -rf ~/.chihuahuad/data; \
+mkdir -p ~/.chihuahuad/data; \
+cd ~/.chihuahuad/data
 ```
 
 Download snapshot  
