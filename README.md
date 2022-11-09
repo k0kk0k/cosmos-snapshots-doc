@@ -3,7 +3,6 @@ https://snapshots.stake2.me - Main page
 https://snapshots.stake2.me/agoric/ - Agoric mainnet  
 https://snapshots.stake2.me/akash/ - Akash mainnet  
 https://snapshots.stake2.me/axelar/ - Axelar mainnet  
-https://snapshots.stake2.me/certik/ - Certik mainnet  
 https://snapshots.stake2.me/chihuahua/ - Chihuahua mainnet  
 https://snapshots.stake2.me/firmachain/ - Firmachain mainnet  
 https://snapshots.stake2.me/gamehub/ - Game Hub pre mainnet  
@@ -16,6 +15,7 @@ https://snapshots.stake2.me/omniflix/ - Omniflix mainnet
 https://snapshots.stake2.me/osmosis/ -Osmosis mainnet  
 https://snapshots.stake2.me/regen/ -Regen mainnet  
 https://snapshots.stake2.me/sifchain/ - Sifchain betanet  
+https://snapshots.stake2.me/shentu/ - Shentu mainnet  
 https://snapshots.stake2.me/stargaze/ - Stargaze mainnet  
 https://snapshots.stake2.me/umee/ - UMEE mainnet 
 
@@ -23,7 +23,6 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 [Agoric snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/agoric.md)  
 [Akash snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/akash.md)  
 [Axelar snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/axelar.md)  
-[Certik snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/certik.md)  
 [Chihuahua snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/chihuahua.md)  
 [Firmachain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/firmachain.md)  
 [Game Hub snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gamehub.md)  
@@ -36,6 +35,7 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 [Osmosis snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/osmosis.md)  
 [Regen snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/regen.md)  
 [Sifchain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/sifchain.md)  
+[Shentu snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/shentu.md)  
 [Stargaze snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/stargaze.md)  
 [UMEE snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/umee.md)  
 
