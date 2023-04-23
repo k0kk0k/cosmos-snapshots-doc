@@ -8,7 +8,6 @@ https://snapshots.stake2.me/firmachain/ - Firmachain mainnet
 https://snapshots.stake2.me/gamehub/ - Game Hub pre mainnet  
 https://snapshots.stake2.me/gravity/ - Gravity bridge mainnet  
 https://snapshots.stake2.me/kichain/ - Kichain mainnet  
-https://snapshots.stake2.me/nym/ - NYM mainnet  
 https://snapshots.stake2.me/oasis/ - Oasis mainnet  
 https://snapshots.stake2.me/omniflix/ - Omniflix mainnet  
 https://snapshots.stake2.me/osmosis/ -Osmosis mainnet  
@@ -27,7 +26,6 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 [Game Hub snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gamehub.md)  
 [Gravity bridge snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/gravity.md)   
 [Kichain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/kichain.md)   
-[NYM snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/nym.md)  
 [Oasis snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/oasis.md)  
 [Omniflix snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/omniflix.md)  
 [Osmosis snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/osmosis.md)  
