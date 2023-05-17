@@ -1,7 +1,6 @@
 # COSMOS snapshots
 https://snapshots.stake2.me - Main page  
 https://snapshots.stake2.me/agoric/ - Agoric mainnet  
-https://snapshots.stake2.me/akash/ - Akash mainnet  
 https://snapshots.stake2.me/axelar/ - Axelar mainnet  
 https://snapshots.stake2.me/chihuahua/ - Chihuahua mainnet  
 https://snapshots.stake2.me/firmachain/ - Firmachain mainnet  
@@ -19,7 +18,6 @@ https://snapshots.stake2.me/umee/ - UMEE mainnet
 
 # How to use?
 [Agoric snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/agoric.md)  
-[Akash snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/akash.md)  
 [Axelar snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/axelar.md)  
 [Chihuahua snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/chihuahua.md)  
 [Firmachain snapshot instruction](https://github.com/k0kk0k/cosmos-snapshots-doc/blob/main/firmachain.md)  
